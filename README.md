@@ -1,8 +1,7 @@
 # Wallpaper App Using Pexel Api Android 
 Wallpaper App Using Pexel Api & Volley Library
 
-**Part 1: How to Create Pexel Api** 
-
+**Part 1: How to Create Pexel Api**<br/> 
 Link ►  https://youtu.be/9X0SDucc428
 
 **Part 2: How to Fetch Wallpapers in Wallpaper App Using Pexel API**  
@@ -14,7 +13,7 @@ Link ►  https://youtu.be/5yISxQ129eU
 **Part 4: How to Download Wallpaper From Wallpaper App Using Pexel API** 
 Link ►  https://youtu.be/NnDiiiVy8o4
 
-**Part 5: How to Implement Search Category Wallpaper in Wallpaper App Using Pexel API**  
+**Part 5: How to Implement Search Category Wallpaper in Wallpaper App Using Pexel API** <br/> 
 Link ►  https://youtu.be/Ygoy5J0qUS8
 
 # Screenshots 
