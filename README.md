@@ -1,5 +1,6 @@
 # Wallpaper App Using Pexel Api Android 
- 
+Wallpaper App Using Pexel Api & Volley Library
+
 # Screenshots 
 <p float="left">
  <img src="https://github.com/arsltech/Wallpaper-App-Using-Pexel-Api-Android-/blob/master/Screen1.png" width="200" height="400" />
